@@ -21,8 +21,8 @@ const sendEmail = async (mailObj) => {
       port: 567,
       secure: false,
       auth: {
-        user: process.env.USER,
-        pass: process.env.PASS,
+        user: "ritiksrivastava99@gmail.com",
+        pass: "noidlnrimqasjntn"
       },
     });
 
